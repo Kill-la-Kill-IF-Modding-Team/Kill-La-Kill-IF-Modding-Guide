@@ -1,6 +1,6 @@
 # Kill la Kill IF - Modding Guide
 
-![Kill la Kill IF Banner](https://github.com/user-attachments/assets/6126a95e-9e39-4648-96fc-572d6ac7730c)
+![Kill la Kill IF Banner](https://github.com/user-attachments/assets/d308ab06-4094-4e11-af6f-24dd2b156602)
 
 ## Welcome to the Modding Community
 
